@@ -6,8 +6,7 @@ I'm an Information Technology student at Southeastern Louisiana University with 
 ---
 
 ## 📈 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=vladimirfiffie&theme=dark&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=vladimirfiffie&theme=dark&hide_border=true&short_numbers=true&mode=weekly&fire=8114EB&background=70%2C000000%2C5029EB&dates=EBEBEB&hide_total_contributions=true)](https://git.io/streak-stats)
 ---
 
 ## 🛠️ **Current Interests**
