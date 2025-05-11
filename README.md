@@ -10,7 +10,18 @@ I'm an Information Technology student at Southeastern Louisiana University with 
 - Exploring how design impacts user experience
 
 ---
+## 🧰 Tech Stack
 
+![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-1A1A1A?style=for-the-badge&logo=readthedocs&logoColor=white)
+
+
+---
 ## 🌱 **Always Learning**
 I'm currently focused on refining my frontend skills and diving deeper into modern web technologies. I enjoy experimenting with layouts, color theory, and interactive design patterns.
 
