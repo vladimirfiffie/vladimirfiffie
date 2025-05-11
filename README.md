@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vladimir Fiffie  
+![Header](./github-header-image.png)
 ## **Exploring Creativity through Frontend Development**  
 I'm an Information Technology student at Southeastern Louisiana University with a passion for UI design and the creativity behind frontend development.
 
