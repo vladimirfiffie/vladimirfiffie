@@ -1,6 +1,12 @@
 ![Header](./github-header-image.png)
+
 ## **Exploring Creativity through Frontend Development**  
 I'm an Information Technology student at Southeastern Louisiana University with a passion for UI design and the creativity behind frontend development.
+
+---
+
+## 📈 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=vladimirfiffie&theme=dark&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
@@ -10,6 +16,12 @@ I'm an Information Technology student at Southeastern Louisiana University with 
 - Exploring how design impacts user experience
 
 ---
+
+### 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
 ## 🧰 Tech Stack
 
 ### 🖥️ Frontend
@@ -31,18 +43,18 @@ I'm an Information Technology student at Southeastern Louisiana University with 
 
 ### ☁️ Services & Apps
 [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=fff)](#)
+[![Proton Drive](https://img.shields.io/badge/Proton%20Drive-6d4aff?logo=proton%20drive&logoColor=white)](#)
 [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](#)
 
-
 ---
+
 ## 🌱 **Always Learning**
 I'm currently focused on refining my frontend skills and diving deeper into modern web technologies. I enjoy experimenting with layouts, color theory, and interactive design patterns.
 
 ---
+
 ### 📊 GitHub Stats
-
 ![Vladimirfiffie's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladimirfiffie&show_icons=true&theme=tokyonight)
-
 
 ## 📫 **Let's Connect**
 I'm open to conversations about web design, creative collaboration, or any opportunity to learn and grow in the tech space!
