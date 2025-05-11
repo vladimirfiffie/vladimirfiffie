@@ -5,10 +5,10 @@ I'm an Information Technology student at Southeastern Louisiana University with 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vladimirfiffie&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false" />
-</p>
-<p align="center">
-  <img height="160em" src="https://streak-stats.demolab.com?user=vladimirfiffie&theme=dark&hide_border=true&short_numbers=true&mode=weekly&fire=8114EB&background=70%2C000000%2C5029EB&dates=EBEBEB" />
+  <a href="https://github.com/vladimirfiffie">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vladimirfiffie&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=vladimirfiffie&theme=dark&hide_border=true&short_numbers=true&mode=weekly&fire=8114EB&background=70%2C000000%2C5029EB&dates=EBEBEB" />
+  </a>
 </p>
 
 ---
