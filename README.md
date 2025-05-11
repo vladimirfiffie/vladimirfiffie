@@ -15,6 +15,10 @@ I'm an Information Technology student at Southeastern Louisiana University with 
 I'm currently focused on refining my frontend skills and diving deeper into modern web technologies. I enjoy experimenting with layouts, color theory, and interactive design patterns.
 
 ---
+### 📊 GitHub Stats
+
+![Vladimirfiffie's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladimirfiffie&show_icons=true&theme=tokyonight)
+
 
 ## 📫 **Let's Connect**
 I'm open to conversations about web design, creative collaboration, or any opportunity to learn and grow in the tech space!
