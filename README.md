@@ -58,9 +58,9 @@
 ---
 
 ```ascii
-╔══════════════════════════════════╗
-║  Built with ❤️ and ☕ on Linux   ║
-╚══════════════════════════════════╝
+╔═════════════════════════════════╗
+║  Built with ❤️ and ☕ on Linux  ║
+╚═════════════════════════════════╝
 ```
 
 ![Views](https://komarev.com/ghpvc/?username=vladimirfiffie&color=ce09ec&style=for-the-badge&label=VISITORS)
