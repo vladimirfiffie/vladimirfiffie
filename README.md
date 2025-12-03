@@ -69,12 +69,12 @@
 [![Email](https://img.shields.io/badge/Send_Me_an_Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:vladimir.fiffiejr@proton.me)
 
 ---
-
-```ascii
+<pre style="background:none; border:none; padding:0; margin:0; font-family:monospace;">
 ╔═════════════════════════════════╗
 ║  Built with ❤️ and ☕ on Linux  ║
 ╚═════════════════════════════════╝
-```
+</pre>
+
 
 ![Views](https://komarev.com/ghpvc/?username=vladimirfiffie&color=ce09ec&style=for-the-badge&label=VISITORS)
 
