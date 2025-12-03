@@ -54,6 +54,6 @@ I'm open to conversations about web design, creative collaboration, or any oppor
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:vladimir.fiffiejr@proton.me">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=fff"/>
   </a>
 </p>
