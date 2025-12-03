@@ -3,14 +3,17 @@
 ## **Exploring Creativity through Frontend Development**  
 I'm an Information Technology student at Southeastern Louisiana University with a passion for UI design and the creativity behind frontend development.
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
 ## 📊 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/vladimirfiffie">
-    <img width="49%" height="170px" src="https://github-readme-stats.vercel.app/api?username=vladimirfiffie&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false" />
-    <img width="49%" height="170px" src="https://streak-stats.demolab.com?user=vladimirfiffie&theme=dark&hide_border=true&short_numbers=true&mode=weekly&fire=8114EB&background=70%2C000000%2C5029EB&dates=EBEBEB" />
-  </a>
+  <p align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vladimirfiffie&theme=tokyo_night" />
 </p>
+
 
 ## 🛠️ **Current Interests**
 - Designing clean, user-friendly interfaces  
