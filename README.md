@@ -3,19 +3,18 @@
 #  Vladimir Fiffie Jr
 <div align="center">
 
-<div align="center">
 
-<span style="padding:4px 14px; border-radius:20px; background:#111; font-size:14px;">
-Frontend Developer
-</span>
-<span style="padding:4px 14px; border-radius:20px; background:#111; font-size:14px;">
-Interface Designer
-</span>
-<span style="padding:4px 14px; border-radius:20px; background:#111; font-size:14px;">
-Linux Enthusiast
-</span>
+<a href="#" style="text-decoration:none">
+  <img src="https://img.shields.io/badge/Frontend%20Developer-F16529?style=for-the-badge&logo=HTML5&logoColor=white" />
+</a>
+<a href="#" style="text-decoration:none">
+  <img src="https://img.shields.io/badge/Interface%20Designer-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
+</a>
+<a href="#" style="text-decoration:none">
+  <img src="https://img.shields.io/badge/Linux%20Enthusiast-000000?style=for-the-badge&logo=linux&logoColor=white" />
+</a>
 
-</div>
+
 
 
 </div>
