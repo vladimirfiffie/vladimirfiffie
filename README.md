@@ -28,7 +28,6 @@
 ###  Tools & IDEs
 
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-1A1A1A?style=for-the-badge&logo=readthedocs&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=black)
 
