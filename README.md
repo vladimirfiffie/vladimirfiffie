@@ -3,7 +3,6 @@
 ## **Exploring Creativity through Frontend Development**  
 I'm an Information Technology student at Southeastern Louisiana University with a passion for UI design and the creativity behind frontend development.
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
 
 
 ## 📊 GitHub Analytics
