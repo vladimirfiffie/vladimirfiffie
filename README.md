@@ -7,19 +7,44 @@
 
 ---
 
-### Tech Stack & Tools
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+<!-- Design -->
 <div>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E44D26?style=flat-square&logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-264DE4?style=flat-square&logo=css3&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-0ACF83?style=flat-square&logo=figma&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=git&logoColor=white">
-  <img alt="Zed" src="https://img.shields.io/badge/Zed-black?style=flat-square">
-  <img alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-  <img alt="KDE Plasma" src="https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=flat-square&logo=kdeplasma&logoColor=white">
+  <h4>🎨 Design</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="70" height="70" alt="Figma"/>
 </div>
+
+<!-- Frontend -->
+<div>
+  <h4>💻 Frontend</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" height="70" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" height="70" alt="React"/>
+</div>
+
+<!-- Tools -->
+<div>
+  <h4>🛠️ Tools</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70" alt="Git"/>
+  <img src="https://img.shields.io/badge/Zed-black?style=for-the-badge" width="100" alt="Zed"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="70" height="70" alt="Godot"/>
+</div>
+
+<!-- OS -->
+<div>
+  <h4>🐧 Operating Systems</h4>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kde/kde-original.svg" width="70" height="70" alt="KDE Plasma"/>
+</div>
+
+</div>
+
 
 ---
 
