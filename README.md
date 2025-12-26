@@ -1,9 +1,5 @@
 <div align="center">
 
-#  Vladimir Fiffie Jr
-<div align="center">
-
-
 <a href="#" style="text-decoration:none">
   <img src="https://img.shields.io/badge/Frontend%20Developer-F16529?style=for-the-badge&logo=HTML5&logoColor=white" />
 </a>
