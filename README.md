@@ -1,70 +1,31 @@
 <div align="center">
 
-<a href="#" style="text-decoration:none">
-  <img src="https://img.shields.io/badge/Frontend%20Developer-F16529?style=for-the-badge&logo=HTML5&logoColor=white" />
-</a>
-<a href="#" style="text-decoration:none">
-  <img src="https://img.shields.io/badge/Interface%20Designer-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
-</a>
-<a href="#" style="text-decoration:none">
-  <img src="https://img.shields.io/badge/Linux%20Enthusiast-000000?style=for-the-badge&logo=linux&logoColor=white" />
-</a>
-
-
-
-
-</div>
-
-
-##  What I'm Building With
-
-###  Design
-
-![Figma](https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)
-
-###  Frontend Development
-
-![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-###  Tools & IDEs
-
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-![Zed](https://img.shields.io/badge/Zed-1A1A1A?style=for-the-badge&logo=readthedocs&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=black)
-
-###  Platforms & OS
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=for-the-badge&logo=kdeplasma&logoColor=fff)
-
-
-##  GitHub Pulse
-
-![](https://github-readme-stats.vercel.app/api?username=vladimirfiffie&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ce09ec&icon_color=ce09ec&text_color=ffffff)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=vladimirfiffie&theme=radical&hide_border=true&background=0d1117&ring=ce09ec&fire=ce09ec&currStreakLabel=ce09ec)
-
-
-
-
-
-
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vladimir-fiffie)
-[![Email](https://img.shields.io/badge/Send_Me_an_Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:vladimir.fiffiejr@proton.me)
+# Hi, I'm Vladimir 👋
+**Frontend Developer | Interface Designer | Linux Enthusiast**
 
 ---
-<pre style="background:none; border:none; padding:0; margin:0; font-family:monospace;">
-╔══════════════════════════╗
-║  Built with ❤️ on Linux  ║
-╚══════════════════════════╝
-</pre>
 
+### 🛠️ Tech Stack & Tools
 
-![Views](https://komarev.com/ghpvc/?username=vladimirfiffie&color=ce09ec&style=for-the-badge&label=VISITORS)
+| Category | Technologies |
+| :--- | :--- |
+| **Design** | ![Figma](https://img.shields.io/badge/Figma-0ACF83?style=flat-square&logo=figma&logoColor=white) |
+| **Frontend** | ![HTML](https://img.shields.io/badge/HTML5-E44D26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-264DE4?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F1502F?style=flat-square&logo=git&logoColor=white) ![Zed](https://img.shields.io/badge/Zed-black?style=flat-square) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white) |
+| **OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![KDE](https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=flat-square&logo=kdeplasma&logoColor=white) |
+
+---
+
+### 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vladimirfiffie&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ce09ec&icon_color=ce09ec&text_color=ffffff)](https://github.com/vladimirfiffie)
+
+---
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vladimir-fiffie)
+[![Email](https://img.shields.io/badge/Email-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:vladimir.fiffiejr@proton.me)
+![Views](https://komarev.com/ghpvc/?username=vladimirfiffie&color=ce09ec&style=flat-square&label=Profile+Views)
 
 </div>
