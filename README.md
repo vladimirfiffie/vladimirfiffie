@@ -52,9 +52,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vladimirfiffie&theme=radical&hide_border=true&background=0d1117&ring=ce09ec&fire=ce09ec&currStreakLabel=ce09ec)
 
 
-##  Design Philosophy
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=CE09EC&center=true&vCenter=true&width=800&lines=+User+First+→+Every+decision+starts+with+the+user;+Performance+Matters+→+Speed+is+a+feature;+Accessible+Always+→+Design+for+everyone;+Systematic+Thinking+→+Build+once%2C+reuse+everywhere)
 
 
 
@@ -65,9 +63,9 @@
 
 ---
 <pre style="background:none; border:none; padding:0; margin:0; font-family:monospace;">
-╔═════════════════════════════════╗
-║  Built with ❤️ and ☕ on Linux  ║
-╚═════════════════════════════════╝
+╔══════════════════════════╗
+║  Built with ❤️ on Linux  ║
+╚══════════════════════════╝
 </pre>
 
 
