@@ -7,15 +7,14 @@
 
 
 
----
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <div align="center">
 
 <!-- Design -->
 <div>
-  <h4>🎨 Design</h4>
+  <h4>Design</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="70" height="70" alt="Figma"/>
 </div>
 
@@ -46,8 +45,6 @@
 </div>
 
 
----
-
 ### GitHub Stats
 <div>
   <a href="https://github.com/vladimirfiffie">
@@ -55,7 +52,6 @@
   </a>
 </div>
 
----
 
 ### Connect with me
 <div>
