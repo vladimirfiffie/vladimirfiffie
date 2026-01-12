@@ -39,7 +39,6 @@
 <div>
   <h4> Operating Systems</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" height="70" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kde/kde-original.svg" width="70" height="70" alt="KDE Plasma"/>
 </div>
 
 </div>
