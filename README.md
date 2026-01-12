@@ -45,14 +45,6 @@
 </div>
 
 
-### GitHub Stats
-<div>
-  <a href="https://github.com/vladimirfiffie">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vladimirfiffie&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ce09ec&icon_color=ce09ec&text_color=ffffff">
-  </a>
-</div>
-
-
 ### Connect with me
 <div>
   <a href="https://linkedin.com/in/vladimir-fiffie">
