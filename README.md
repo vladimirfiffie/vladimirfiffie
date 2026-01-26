@@ -3,7 +3,6 @@
 # Hi, I'm Vladimir
 **Frontend Developer | Interface Designer | Linux Enthusiast**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vladimirfiffie&color=ce09ec&style=flat-square)](https://github.com/vladimirfiffie)
 
 
 
@@ -31,7 +30,7 @@
 <div>
   <h4> Tools</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70" alt="Git"/>
-  <img src="https://img.shields.io/badge/Zed-black?style=for-the-badge" width="100" alt="Zed"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" height="70" alt="Visual Studio Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="70" height="70" alt="Godot"/>
 </div>
 
