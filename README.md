@@ -31,7 +31,6 @@
   <h4> Tools</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" height="70" alt="Visual Studio Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="70" height="70" alt="Godot"/>
 </div>
 
 <!-- OS -->
@@ -45,6 +44,9 @@
 
 ### Connect with me
 <div>
+  <a href="https://vlad-dev.vercel.app/">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logoColor=white">
+</a>
   <a href="https://linkedin.com/in/vladimir-fiffie">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
   </a>
