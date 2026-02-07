@@ -45,7 +45,7 @@
 ### Connect with me
 <div>
   <a href="https://vlad-dev.vercel.app/">
-  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logoColor=white">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-blue?style=flat-square&logoColor=white">
 </a>
   <a href="https://linkedin.com/in/vladimir-fiffie">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
