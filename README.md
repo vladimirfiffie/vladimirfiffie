@@ -28,9 +28,4 @@
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 
-
-### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=vladimirfiffie&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirfiffie&layout=compact&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
-
 </div>
